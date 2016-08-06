@@ -1,0 +1,1 @@
+Hace una petición a la web solicitada para cada día/mes del año, parsea el resultado html, y guarda en carpetas todas las efemérides obtenidas.
