@@ -1,0 +1,6 @@
+*.class
+data/
+largos.txt
+.classpath
+.project
+.settings/
